@@ -2,6 +2,7 @@
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7125/badge)](https://bestpractices.coreinfrastructure.org/projects/7125)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/maintainability)](https://codeclimate.com/github/OWASP/cornucopia/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/4a7cda6ef1c2932a34f9/test_coverage)](https://codeclimate.com/github/OWASP/cornucopia/test_coverage)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdolit84102%2Fcornucopia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdolit84102%2Fcornucopia?ref=badge_shield)
 
 # OWASP Cornucopia project
 OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams 
@@ -172,3 +173,7 @@ keeping 3 tags:
 - `previous` mirrors state of the previous Git tag.
 
 Images are also pushed with `git describe` version.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdolit84102%2Fcornucopia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdolit84102%2Fcornucopia?ref=badge_large)
